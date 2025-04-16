@@ -32,6 +32,10 @@
   - OSRM (Routing)
 
 ---
+🔊 Voice Assistant Feature
+Uses SpeechSynthesis API to read hospital name, distance & ETA aloud.
+
+Automatically triggers after a successful route is displayed.
 
 ## ⚙️ Setup Instructions
 
