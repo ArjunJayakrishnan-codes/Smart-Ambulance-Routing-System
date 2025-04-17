@@ -17,7 +17,6 @@
 - 🔄 Refresh and restart new searches
 - 🗣️ Voice Assistant that announces hospital info
 - 📱 Fully responsive & mobile-friendly
-- 🧭 Progressive Web App (PWA) ready (optional)
 - 💡 Clean and professional UI with animations
 
 ---
